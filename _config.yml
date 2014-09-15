@@ -1,0 +1,9 @@
+# Site settings
+title: Leigh and District Historical Society
+email: hello@ldhs.org.au
+baseurl: ""
+url: "http://ldhs.org.au"
+github_username: ldhs
+
+# Build settings
+markdown: kramdown
